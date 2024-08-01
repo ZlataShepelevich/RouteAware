@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPWosb+9rwLpI7AFNRo0YVoMkEq2uWlh1BJXVGvnd21zG8CcbrPk+UQcw5P15gd7nSKglZr4Duc9EPVCh9wSbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zlata\\projects\\RouteAware\\backend\\RouteAware\\RouteAware.Moderation\\RouteAware.Moderation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zlata\\.nuget\\packages\\fastyolo\\12.1.0\\fastyolo.12.1.0.nupkg.sha512",
+    "C:\\Users\\zlata\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\zlata\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\zlata\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

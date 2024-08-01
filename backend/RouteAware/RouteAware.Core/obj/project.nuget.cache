@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcmKRTqrMAO5g7k+6KRLpkFl5UCG1ln6/0VQfnvnOkgt1l0WKwT6023hM84+Cwj33xfAZLBnSBO8DqGM1twpMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zlata\\projects\\RouteAware\\backend\\RouteAware\\RouteAware.Core\\RouteAware.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zlata\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\zlata\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\zlata\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

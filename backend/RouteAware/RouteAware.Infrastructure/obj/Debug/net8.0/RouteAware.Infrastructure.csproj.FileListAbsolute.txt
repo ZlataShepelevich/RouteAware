@@ -1,0 +1,16 @@
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\bin\Debug\net8.0\RouteAware.Infrastructure.deps.json
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\bin\Debug\net8.0\RouteAware.Infrastructure.dll
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\bin\Debug\net8.0\RouteAware.Infrastructure.pdb
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\bin\Debug\net8.0\RouteAware.Core.dll
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\bin\Debug\net8.0\RouteAware.Core.pdb
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.AssemblyInfo.cs
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.csproj.CopyComplete
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.dll
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\refint\RouteAware.Infrastructure.dll
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.pdb
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\ref\RouteAware.Infrastructure.dll
+C:\Users\zlata\projects\RouteAware\backend\RouteAware\RouteAware.Infrastructure\obj\Debug\net8.0\RouteAware.Infrastructure.sourcelink.json

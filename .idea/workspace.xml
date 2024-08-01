@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27ac3b06-503d-4890-b998-f96d1f5e696f" name="Changes" comment="v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/ProjectEvaluation/routeaware.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/ProjectEvaluation/routeaware.metadata.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/ProjectEvaluation/routeaware.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/ProjectEvaluation/routeaware.projects.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/FileContentIndex/0037ef64-0fa2-4cc1-8e8c-f69d2ca5096f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/FileContentIndex/56de0c39-ca35-4ef5-8383-e6b8662c87ac.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/FileContentIndex/9cd1c0fa-0f64-455a-957a-b16faef2fc4d.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/FileContentIndex/a1aa95a3-b5ef-4524-8a3b-9deed90ddb83.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/FileContentIndex/d92e2d34-072d-4387-a070-8edcec0e5758.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/.vs/RouteAware/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.exe" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.DataAccess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.DataAccess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.DataAccess.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.DataAccess.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Moderation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Moderation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Moderation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/bin/Debug/net8.0/RouteAware.Moderation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/RouteAware.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/ref/RouteAware.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/ref/RouteAware.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/refint/RouteAware.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.API/obj/Debug/net8.0/refint/RouteAware.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/RouteAware.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/ref/RouteAware.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/ref/RouteAware.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/refint/RouteAware.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Application/obj/Debug/net8.0/refint/RouteAware.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/ref/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/ref/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/refint/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Core/obj/Debug/net8.0/refint/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.DataAccess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.DataAccess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.DataAccess.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/bin/Debug/net8.0/RouteAware.DataAccess.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/RouteAware.DataAccess.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/ref/RouteAware.DataAccess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/ref/RouteAware.DataAccess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/refint/RouteAware.DataAccess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.DataAccess/obj/Debug/net8.0/refint/RouteAware.DataAccess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/bin/Debug/net8.0/RouteAware.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/RouteAware.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/ref/RouteAware.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/ref/RouteAware.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/refint/RouteAware.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Infrastructure/obj/Debug/net8.0/refint/RouteAware.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Moderation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Moderation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Moderation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/bin/Debug/net8.0/RouteAware.Moderation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/RouteAware.Moderation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/ref/RouteAware.Moderation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/ref/RouteAware.Moderation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/refint/RouteAware.Moderation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/RouteAware/RouteAware.Moderation/obj/Debug/net8.0/refint/RouteAware.Moderation.dll" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2k31SopaXgwsTquuefQjfMcr2zt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;49d1b88f&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zlata/projects/RouteAware&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ac3b06-503d-4890-b998-f96d1f5e696f" name="Changes" comment="" />
+      <created>1722497451765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722497451765</updated>
+      <workItem from="1722497452704" duration="1073000" />
+      <workItem from="1722504346293" duration="651000" />
+      <workItem from="1722507324097" duration="3215000" />
+    </task>
+    <task id="LOCAL-00001" summary="v1">
+      <option name="closed" value="true" />
+      <created>1722497719565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722497719565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+  </component>
+</project>

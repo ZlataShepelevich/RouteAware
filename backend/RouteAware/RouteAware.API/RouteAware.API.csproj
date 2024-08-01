@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RouteAware.Application\RouteAware.Application.csproj" />
+    <ProjectReference Include="..\RouteAware.DataAccess\RouteAware.DataAccess.csproj" />
+    <ProjectReference Include="..\RouteAware.Infrastructure\RouteAware.Infrastructure.csproj" />
+    <ProjectReference Include="..\RouteAware.Moderation\RouteAware.Moderation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="YOLOv3\coco.names">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="YOLOv3\yolov3.cfg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="YOLOv3\yolov3.weights">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="C:\Users\zlata\.nuget\packages\fastyolo\12.1.0\build\\opencv_world470.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

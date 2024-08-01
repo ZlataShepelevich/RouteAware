@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteAware.API", "RouteAware.API.csproj", "{CD8714ED-39B9-4DB6-A878-579AE1179476}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteAware.Core", "..\RouteAware.Core\RouteAware.Core.csproj", "{4EBF8A7E-783B-4724-9FA7-55EEBA61F8C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteAware.DataAccess", "..\RouteAware.DataAccess\RouteAware.DataAccess.csproj", "{6A8F2B51-4B66-4ED8-8A7A-DF6F244C7D81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteAware.Application", "..\RouteAware.Application\RouteAware.Application.csproj", "{72F2188E-038B-4AA3-8F93-CFA2764A3986}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteAware.Infrastructure", "..\RouteAware.Infrastructure\RouteAware.Infrastructure.csproj", "{6408DD49-C965-40D8-A0A3-41F2116B5C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteAware.Moderation", "..\RouteAware.Moderation\RouteAware.Moderation.csproj", "{CB16466D-ECD5-4294-86E3-5503A8B54D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8714ED-39B9-4DB6-A878-579AE1179476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8714ED-39B9-4DB6-A878-579AE1179476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8714ED-39B9-4DB6-A878-579AE1179476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8714ED-39B9-4DB6-A878-579AE1179476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBF8A7E-783B-4724-9FA7-55EEBA61F8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBF8A7E-783B-4724-9FA7-55EEBA61F8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBF8A7E-783B-4724-9FA7-55EEBA61F8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBF8A7E-783B-4724-9FA7-55EEBA61F8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8F2B51-4B66-4ED8-8A7A-DF6F244C7D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8F2B51-4B66-4ED8-8A7A-DF6F244C7D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8F2B51-4B66-4ED8-8A7A-DF6F244C7D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8F2B51-4B66-4ED8-8A7A-DF6F244C7D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F2188E-038B-4AA3-8F93-CFA2764A3986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F2188E-038B-4AA3-8F93-CFA2764A3986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F2188E-038B-4AA3-8F93-CFA2764A3986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F2188E-038B-4AA3-8F93-CFA2764A3986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6408DD49-C965-40D8-A0A3-41F2116B5C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6408DD49-C965-40D8-A0A3-41F2116B5C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6408DD49-C965-40D8-A0A3-41F2116B5C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6408DD49-C965-40D8-A0A3-41F2116B5C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB16466D-ECD5-4294-86E3-5503A8B54D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB16466D-ECD5-4294-86E3-5503A8B54D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB16466D-ECD5-4294-86E3-5503A8B54D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB16466D-ECD5-4294-86E3-5503A8B54D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B2ED6D-CFF0-4EDB-A8C2-BE61F971473E}
+	EndGlobalSection
+EndGlobal
